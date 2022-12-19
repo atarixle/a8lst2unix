@@ -1,5 +1,5 @@
 # a8lst2unix
-replaces special Atari 8 Bit characters mostly in BASIC Listings with codes of their keystrokes.
+"Atari 8 Bit Listing to UNIX" replaces special Atari 8 Bit characters mostly in BASIC Listings with codes of their keystrokes.
 
 Outputs names get a .txt added
 
